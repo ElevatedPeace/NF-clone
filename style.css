@@ -162,7 +162,22 @@ a:hover {
     text-align: center;
 
 }
-
+#icon{
+    font-size: 30px; 
+    margin-right:20px;   
+}
+.last-section{
+    margin: 90px
+}
+.last-section-p{
+    text-align: center; 
+    color: white; 
+    font-size: x-large; 
+    margin-bottom: 20px; 
+}
+.last-text{
+    color: gray;
+}
 
 @media screen and (max-width: 1250px) {
 
@@ -270,8 +285,8 @@ a:hover {
         font-weight: 300;
         border-radius: 20px;
     }
-    .last-p{
-        font-size: 5px;
+    .last-section-p{
+        font-size: 14px;
         text-align: left;
     }
 }
